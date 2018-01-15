@@ -131,3 +131,6 @@ C:\Users\Owned\Documents\GitHub\JJJNCasualGamesProject\MonoGameClient\bin\Window
 C:\Users\Owned\Documents\GitHub\JJJNCasualGamesProject\MonoGameClient\obj\x86\Debug\MonoGameClient.csprojResolveAssemblyReference.cache
 C:\Users\Owned\Documents\GitHub\JJJNCasualGamesProject\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
 C:\Users\Owned\Documents\GitHub\JJJNCasualGamesProject\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
+C:\Users\s00159718\Source\Repos\JJJNCasualGamesProject\MonoGameClient\bin\Windows\x86\Debug\MonoGameClient.exe.config
+C:\Users\s00159718\Source\Repos\JJJNCasualGamesProject\MonoGameClient\obj\x86\Debug\MonoGameClient.exe
+C:\Users\s00159718\Source\Repos\JJJNCasualGamesProject\MonoGameClient\obj\x86\Debug\MonoGameClient.pdb
